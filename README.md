@@ -1,5 +1,5 @@
 # Crime_Analysis
-![image](Crime.image-1.png)
+![image](./images/Crime.image.png)
 
 ## Introduction
 This Dataset contains all of the recorded crime data in the city of Los Angeles between the years of 2020 to the Present Day(2023). The dataset contains everything from the time the crime was reported, the type of crime committed, as well as the longitude and latitude which the crime was committed. 
